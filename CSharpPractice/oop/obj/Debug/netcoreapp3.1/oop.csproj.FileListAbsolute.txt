@@ -1,0 +1,13 @@
+D:\Projects\Sitecore\oop\bin\Debug\netcoreapp3.1\oop.exe
+D:\Projects\Sitecore\oop\bin\Debug\netcoreapp3.1\oop.deps.json
+D:\Projects\Sitecore\oop\bin\Debug\netcoreapp3.1\oop.runtimeconfig.json
+D:\Projects\Sitecore\oop\bin\Debug\netcoreapp3.1\oop.runtimeconfig.dev.json
+D:\Projects\Sitecore\oop\bin\Debug\netcoreapp3.1\oop.dll
+D:\Projects\Sitecore\oop\bin\Debug\netcoreapp3.1\oop.pdb
+D:\Projects\Sitecore\oop\obj\Debug\netcoreapp3.1\oop.csprojAssemblyReference.cache
+D:\Projects\Sitecore\oop\obj\Debug\netcoreapp3.1\oop.AssemblyInfoInputs.cache
+D:\Projects\Sitecore\oop\obj\Debug\netcoreapp3.1\oop.AssemblyInfo.cs
+D:\Projects\Sitecore\oop\obj\Debug\netcoreapp3.1\oop.csproj.CoreCompileInputs.cache
+D:\Projects\Sitecore\oop\obj\Debug\netcoreapp3.1\oop.dll
+D:\Projects\Sitecore\oop\obj\Debug\netcoreapp3.1\oop.pdb
+D:\Projects\Sitecore\oop\obj\Debug\netcoreapp3.1\oop.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Projects\Sitecore\exceptionHandling\bin\Debug\netcoreapp3.1\exceptionHandling.exe
+D:\Projects\Sitecore\exceptionHandling\bin\Debug\netcoreapp3.1\exceptionHandling.deps.json
+D:\Projects\Sitecore\exceptionHandling\bin\Debug\netcoreapp3.1\exceptionHandling.runtimeconfig.json
+D:\Projects\Sitecore\exceptionHandling\bin\Debug\netcoreapp3.1\exceptionHandling.runtimeconfig.dev.json
+D:\Projects\Sitecore\exceptionHandling\bin\Debug\netcoreapp3.1\exceptionHandling.dll
+D:\Projects\Sitecore\exceptionHandling\bin\Debug\netcoreapp3.1\exceptionHandling.pdb
+D:\Projects\Sitecore\exceptionHandling\obj\Debug\netcoreapp3.1\exceptionHandling.csprojAssemblyReference.cache
+D:\Projects\Sitecore\exceptionHandling\obj\Debug\netcoreapp3.1\exceptionHandling.AssemblyInfoInputs.cache
+D:\Projects\Sitecore\exceptionHandling\obj\Debug\netcoreapp3.1\exceptionHandling.AssemblyInfo.cs
+D:\Projects\Sitecore\exceptionHandling\obj\Debug\netcoreapp3.1\exceptionHandling.csproj.CoreCompileInputs.cache
+D:\Projects\Sitecore\exceptionHandling\obj\Debug\netcoreapp3.1\exceptionHandling.dll
+D:\Projects\Sitecore\exceptionHandling\obj\Debug\netcoreapp3.1\exceptionHandling.pdb
+D:\Projects\Sitecore\exceptionHandling\obj\Debug\netcoreapp3.1\exceptionHandling.genruntimeconfig.cache

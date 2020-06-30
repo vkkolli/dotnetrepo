@@ -1,0 +1,53 @@
+﻿@model  Eapp.ViewModels.RamdomMovieViewModel
+@{
+    ViewBag.Title = "Random";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>@Model.Movie.Name</div>
+<ul>
+    @{ 
+        foreach (var viewModel in Model.Customers) { 
+        <li>
+            @viewModel.ID @viewModel.Name
+        </li>}
+    }
+    </ul>
+
+
+<h2>List of Movies: View Data</h2>
+<ul>
+    @{
+        foreach (var Movies in ViewData["Movies"] as List<string>)
+        {
+            <li>
+                @Movies
+            </li>
+        }
+    }
+</ul>
+
+<h2>List of Movies: View Bag</h2>
+
+<ul>
+    @{
+        foreach (var Movies in ViewBag.Movies)
+        {
+            <li> @Movies</li>
+
+        }
+    }
+</ul>
+
+<h2>List of Movies: Temp Data</h2>
+<ul>
+    @{
+        foreach (var Movies in TempData["Movies"] as List<string>)
+        {
+            <li>
+                @Movies
+            </li>
+        }
+    }
+</ul>
+

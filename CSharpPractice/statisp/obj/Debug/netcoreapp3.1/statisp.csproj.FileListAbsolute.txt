@@ -1,0 +1,13 @@
+D:\Projects\Sitecore\statisp\bin\Debug\netcoreapp3.1\statisp.exe
+D:\Projects\Sitecore\statisp\bin\Debug\netcoreapp3.1\statisp.deps.json
+D:\Projects\Sitecore\statisp\bin\Debug\netcoreapp3.1\statisp.runtimeconfig.json
+D:\Projects\Sitecore\statisp\bin\Debug\netcoreapp3.1\statisp.runtimeconfig.dev.json
+D:\Projects\Sitecore\statisp\bin\Debug\netcoreapp3.1\statisp.dll
+D:\Projects\Sitecore\statisp\bin\Debug\netcoreapp3.1\statisp.pdb
+D:\Projects\Sitecore\statisp\obj\Debug\netcoreapp3.1\statisp.csprojAssemblyReference.cache
+D:\Projects\Sitecore\statisp\obj\Debug\netcoreapp3.1\statisp.AssemblyInfoInputs.cache
+D:\Projects\Sitecore\statisp\obj\Debug\netcoreapp3.1\statisp.AssemblyInfo.cs
+D:\Projects\Sitecore\statisp\obj\Debug\netcoreapp3.1\statisp.csproj.CoreCompileInputs.cache
+D:\Projects\Sitecore\statisp\obj\Debug\netcoreapp3.1\statisp.dll
+D:\Projects\Sitecore\statisp\obj\Debug\netcoreapp3.1\statisp.pdb
+D:\Projects\Sitecore\statisp\obj\Debug\netcoreapp3.1\statisp.genruntimeconfig.cache
